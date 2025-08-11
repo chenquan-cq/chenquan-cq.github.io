@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "zh-CN"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Quan Chen / Mr. Chen"
+title                    : "Quan Chen / 陈权"
 title_separator          : "-"
 name                     : &name "Quan Chen"
 description              : &description "personal description"
