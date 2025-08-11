@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Quan Chen (陈权)"
+title: "Quan Chen"
 author_profile: true
 redirect_from: 
   - /about/
