@@ -6,10 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am the director of Commercial Intelligence Generation Center at Kuaishou Technology since 2022, before that, I am a senior staff algorithm engineer at Alibaba Group from 2015 to 2022. 
+I am the director of Commercial Intelligence Generation Center at Kuaishou Technology, before that, I am a senior staff algorithm engineer at Alibaba Group. 
 I currently focus on the research and development of AI technologies and their applications in internet advertising, including Ads Agent, AIGC and Large Recomendation Models.
 
-I am hiring hiring both full-time employees and interns. If interested, please feel free to contact me: chenquan06@kuaishou.com.
+I am hiring both full-time employees and interns. If interested, please feel free to contact me: chenquan06@kuaishou.com.
 
 
 
