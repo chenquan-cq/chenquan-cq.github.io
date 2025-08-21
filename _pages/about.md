@@ -45,7 +45,7 @@ Selected Publibcations
 > [arXiv](https://arxiv.org/abs/2408.02978)
 
 
-> *From Principles to Applications: A Comprehensive Survey of Discrete Tokenizers in Generation, Comprehension, Recommendation, and Information Retrieval*
+> **From Principles to Applications: A Comprehensive Survey of Discrete Tokenizers in Generation, Comprehension, Recommendation, and Information Retrieval**
 >
 > Jian Jia, Jingtong Gao, Ben Xue, Junhao Wang, Qingpeng Cai, **Quan Chen**, Xiangyu Zhao, Peng Jiang, Kun Gai
 >
@@ -53,7 +53,7 @@ Selected Publibcations
 >
 > [Arxiv](https://arxiv.org/abs/2502.12448)
 
-> *SweetTok: Semantic-Aware Spatial-Temporal Tokenizer for Compact Video Discretization*
+> **SweetTok: Semantic-Aware Spatial-Temporal Tokenizer for Compact Video Discretization**
 > 
 > Zhentao Tan, Ben Xue, Jian Jia, Junhao Wang, Wencai Ye, Shaoyun Shi, Mingjie Sun, Wenjin Wu, **Quan Chen**, Peng Jiang
 > 
@@ -64,7 +64,7 @@ Selected Publibcations
 
 
 
-> *Music Grounding by Short Video*
+> **Music Grounding by Short Video**
 > 
 > Zijie Xin, Minquan Wang, Jingyu Liu, **Quan Chen**, Ye Ma, Peng Jiang, Xirong Li
 > 
@@ -73,7 +73,7 @@ Selected Publibcations
 > [arXiv](https://arxiv.org/abs/2408.16990v2)
 
 
-> *Orthus: Autoregressive interleaved image-text generation with modality-specific heads*
+> **Orthus: Autoregressive interleaved image-text generation with modality-specific heads**
 > 
 > Siqi Kou, Jiachun Jin, Zhihong Liu, Chang Liu, Ye Ma, Jian Jia, **Quan Chen**, Peng Jiang, Zhijie Deng
 > 
@@ -82,7 +82,7 @@ Selected Publibcations
 > [arXiv](https://arxiv.org/abs/2412.00127)
 
 
-> *LEARN: Knowledge Adaptation from Large Language Model to Recommendation for Practical Industrial Application*
+> **LEARN: Knowledge Adaptation from Large Language Model to Recommendation for Practical Industrial Application**
 >
 > Jian Jia, Yipei Wang, Yan Li, Honggang Chen, Xuehan Bai, Zhaocheng Liu, Jian Liang, **Quan Chen**, Han Li, Peng Jiang, Kun Gai
 >
@@ -91,7 +91,7 @@ Selected Publibcations
 > [arXiv](https://arxiv.org/abs/2405.03988)
 
 
-> *D&M: Enriching E-commerce Videos with Sound Effects by Key Moment Detection and SFX Matching*
+> **D&M: Enriching E-commerce Videos with Sound Effects by Key Moment Detection and SFX Matching**
 > 
 > Jingyu Liu, Minquan Wang, Ye Ma, Bo Wang, Aozhu Chen, **Quan Chen**, Peng Jiang, Xirong Li
 > 
@@ -100,7 +100,7 @@ Selected Publibcations
 > [arXiv](https://arxiv.org/abs/2408.13226)
 
 
-> *Enhancing instruction-following capability of visual-language models by reducing image redundancy*
+> **Enhancing instruction-following capability of visual-language models by reducing image redundancy**
 >
 > Te Yang, Jian Jia, Xiangyu Zhu, Weisong Zhao, Bo Wang, Yanhua Cheng, Yan Li, Shengyuan Liu, **Quan Chen**, Peng Jiang, Kun Gai, Zhen Lei
 >
@@ -109,7 +109,7 @@ Selected Publibcations
 > [arXiv](https://arxiv.org/abs/2411.15453)
 
 
-> *Towards Efficient and Effective Text-to-Video Retrieval with Coarse-to-Fine Visual Representation Learning*
+> **Towards Efficient and Effective Text-to-Video Retrieval with Coarse-to-Fine Visual Representation Learning**
 >
 > Kaibin Tian, Yanhua Cheng, Yi Liu, Xinglin Hou, **Quan Chen**, Han Li
 >
@@ -118,7 +118,7 @@ Selected Publibcations
 > [arXiv](https://arxiv.org/abs/2401.00701)
 
 
-> *Spatiotemporal Fine-grained Video Description for Short Videos*
+> **Spatiotemporal Fine-grained Video Description for Short Videos**
 >
 > Te Yang, Jian Jia, Bo Wang, Yanhua Cheng, Yan Li, Dongze Hao, Xipeng Cao, **Quan Chen**, Han Li, Peng Jiang, Xiangyu Zhu, Zhen Lei
 >
@@ -126,14 +126,14 @@ Selected Publibcations
 >
 > [OpenReview](https://openreview.net/pdf/fdfb800d821320702c049d0c61c1c6c498ff4445.pdf)
 
-> *Spatiotemporal Graph Guided Multi-modal Network for Livestreaming Product Retrieval*
+> **Spatiotemporal Graph Guided Multi-modal Network for Livestreaming Product Retrieval**
 >
 > Xiaowan Hu, Yiyi Chen, Yan Li, Minquan Wang, Haoqian Wang, **Quan Chen**, Han Li, Peng Jiang
 >
 > ACM International Conference on Multimedia (ACM MM), 2024
 
 
-> *Knowledge Condensation and Reasoning for Knowledge-based VQA*
+> **Knowledge Condensation and Reasoning for Knowledge-based VQA**
 >
 > Dongze Hao, Jian Jia, Longteng Guo, Qunbo Wang, Te Yang, Yan Li, Yanhua Cheng, Bo Wang, **Quan Chen**, Han Li, Jing Liu
 >
@@ -142,7 +142,7 @@ Selected Publibcations
 > [arXiv](https://arxiv.org/abs/2403.10037)
 
 
-> *Text-Video Multi-Grained Integration for Video Moment Montage*
+> **Text-Video Multi-Grained Integration for Video Moment Montage**
 >
 > Zhihui Yin, Ye Ma, Xipeng Cao, Bo Wang, Quan Chen, Peng Jiang
 >
@@ -155,7 +155,7 @@ Selected Publibcations
 
 
 
-> *Cross-view Semantic Alignment for Livestreaming Product Recognition*
+> **Cross-view Semantic Alignment for Livestreaming Product Recognition**
 >
 > Wenjie Yang, Yiyi Chen, Yan Li, Yanhua Cheng, Xudong Liu, **Quan Chen**, Han Li
 >
@@ -163,7 +163,7 @@ Selected Publibcations
 >
 > [arXiv](https://arxiv.org/abs/2308.04912)
 
-> *Cross-Domain Product Representation Learning for Rich-Content E-Commerce*
+> **Cross-Domain Product Representation Learning for Rich-Content E-Commerce**
 >
 > Xuehan Bai, Yan Li, Yanhua Cheng, Wenjie Yang, Quan Chen, Han Li
 >
@@ -172,7 +172,7 @@ Selected Publibcations
 > [arXiv](https://arxiv.org/abs/2308.05550)
 
 
-> *DCCF: Deep Comprehensible Color Filter Learning Framework for High-Resolution Image Harmonization*
+> **DCCF: Deep Comprehensible Color Filter Learning Framework for High-Resolution Image Harmonization**
 >
 > Ben Xue, Shenghui Ran, **Quan Chen**, Rongfei Jia, Binqiang Zhao, Xing Tang
 >
@@ -181,7 +181,7 @@ Selected Publibcations
 > [arXiv](https://arxiv.org/abs/2207.04788)
 
 
-> *Boosting Image Outpainting with Semantic Layout Prediction*
+> **Boosting Image Outpainting with Semantic Layout Prediction**
 >
 > Ye Ma, Jin Ma, Min Zhou, **Quan Chen**, Tiezheng Ge, Yuning Jiang, Tong Lin
 >
@@ -190,7 +190,7 @@ Selected Publibcations
 > [arXiv](https://arxiv.org/pdf/2110.09267)
 
 
-> *Progressive Feature Polishing Network for Salient Object Detection*
+> **Progressive Feature Polishing Network for Salient Object Detection**
 >
 > Bo Wang, **Quan Chen**, Min Zhou, Zhiqiang Zhang, Xiaogang Jin, Kun Gai
 >
@@ -199,7 +199,7 @@ Selected Publibcations
 > [arXiv](https://arxiv.org/abs/1911.05942)
 
 
-> *Semantic Human Matting*
+> **Semantic Human Matting**
 >
 > **Quan Chen**, Tiezheng Ge, Yanyu Xu, Zhiqiang Zhang, Xinxin Yang, Kun Gai
 >
@@ -208,13 +208,13 @@ Selected Publibcations
 > [arXiv](https://arxiv.org/pdf/1809.01354)
 
 
-> *Robust and Real-time Traffic Light Recognition based on Hierarchical Vision Architecture*
+> **Robust and Real-time Traffic Light Recognition based on Hierarchical Vision Architecture**
 >
 > **Quan Chen**, Zhenwei Shi, Zhengxia Zou
 >
 > International Congress on Image and Signal Processing (ICISP), 2014
 
-> *Hyperspectral Image Fusion based on Sparse Constraint NMF*
+> **Hyperspectral Image Fusion based on Sparse Constraint NMF**
 >
 > **Quan Chen**, Zhenwei Shi, Zhenyu An
 >
