@@ -151,10 +151,6 @@ Selected Publibcations
 > [arXiv](https://arxiv.org/abs/2412.09276)
 
 
-
-
-
-
 > **Cross-view Semantic Alignment for Livestreaming Product Recognition**
 >
 > Wenjie Yang, Yiyi Chen, Yan Li, Yanhua Cheng, Xudong Liu, **Quan Chen**, Han Li
@@ -221,6 +217,14 @@ Selected Publibcations
 > Optik, Volume 125, Issue 2, January 2014, Pages 832-838
 
 
+
+Review Service
+======
+- Association for the Advancement of Artificial Intelligence (AAAI) 2025/2026, PC Member.
+- International Conference on Computer Vision (ICCV), 2025, Reviewer
+- Computer Vision and Pattern Recognition (CVPR), 2025, Reviewer
+- ACM international conference on Multimedia (ACM MM), 2025, Reviewer
+- International Conference on Multimedia & Expo (ICME), 2025, Reviewer
 
 
 
