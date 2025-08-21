@@ -20,6 +20,14 @@ Selected Publibcations
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=jFQSmp8AAAAJ&hl=en)
 
+> *Improving Preference Alignment of LLM with Inference-Free Self-Refinement*
+>
+> Fukun Ma, Kaibin Tian, JietingXue, Xiaoyi Wang, Ye Ma, **Quan Chen**, Peng Jiang, Lijie Wen
+>
+> Empirical Methods in Natural Language Processing (EMNLP), 2025
+
+
+
 > *Training-free Subject-Enhanced Attention Guidance for Compositional Text-to-image Generation*
 >
 > Shengyuan Liu, Bo Wang, Ye Ma, Te Yang, **Quan Chen**, Di Dong
