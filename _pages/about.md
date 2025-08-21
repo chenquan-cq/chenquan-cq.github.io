@@ -24,8 +24,7 @@ Selected Publibcations
 >
 > Fukun Ma, Kaibin Tian, JietingXue, Xiaoyi Wang, Ye Ma, **Quan Chen**, Peng Jiang, Lijie Wen
 >
-> Empirical Methods in Natural Language Processing (EMNLP), 2025
-
+> Empirical Methods in Natural Language Processing (EMNLP Findings), 2025
 
 
 > *Training-free Subject-Enhanced Attention Guidance for Compositional Text-to-image Generation*
