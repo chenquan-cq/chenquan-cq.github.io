@@ -20,14 +20,14 @@ Selected Publibcations
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=jFQSmp8AAAAJ&hl=en)
 
-> *Improving Preference Alignment of LLM with Inference-Free Self-Refinement*
+> **Improving Preference Alignment of LLM with Inference-Free Self-Refinement**
 >
 > Fukun Ma, Kaibin Tian, JietingXue, Xiaoyi Wang, Ye Ma, **Quan Chen**, Peng Jiang, Lijie Wen
 >
 > Empirical Methods in Natural Language Processing (EMNLP Findings), 2025
 
 
-> *Training-free Subject-Enhanced Attention Guidance for Compositional Text-to-image Generation*
+> **Training-free Subject-Enhanced Attention Guidance for Compositional Text-to-image Generation**
 >
 > Shengyuan Liu, Bo Wang, Ye Ma, Te Yang, **Quan Chen**, Di Dong
 >
@@ -36,7 +36,7 @@ Selected Publibcations
 > [arXiv](https://arxiv.org/abs/2405.06948)
 
 
-> *ASR-enhanced Multimodal Representation Learning for Cross-Domain Product Retrieval*
+> **ASR-enhanced Multimodal Representation Learning for Cross-Domain Product Retrieval**
 >
 > Ruixiang Zhao, Jian Jia, Yan Li, Xuehan Bai, **Quan Chen**, Han Li, Peng Jiang, Xirong Li
 >
