@@ -63,7 +63,7 @@ Selected Publibcations
 >
 > Empirical Methods in Natural Language Processing (EMNLP Findings), 2025
 >
-> [OpenReview](https://openreview.net/pdf?id=W8oo9kjub9)
+> [ACL Anthology](https://aclanthology.org/2025.findings-emnlp.1329/)
 
 
 > **Training-free Subject-Enhanced Attention Guidance for Compositional Text-to-image Generation**
