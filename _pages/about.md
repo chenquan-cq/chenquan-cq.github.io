@@ -20,6 +20,43 @@ Selected Publibcations
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=jFQSmp8AAAAJ&hl=en)
 
+> **IMAGINE: Integrating Multi-Agent System into One Model for Complex Reasoning and Planning**
+>
+> Xikai Zhang, Bo Wang, Likang Xiao, Yongzhi Li, **Quan Chen**, Wenju Wu, Liu Liu
+>
+> Tech report, 2025
+>
+> [Arxiv](https://arxiv.org/abs/2510.14406)
+
+
+> **SPOGW: a Score-based Preference Optimization method via Group-Wise comparison for workflows**
+>
+> Yitong Cui, Liu Liu, Baosheng Yu, Jiayan Qiu, Xikai Zhang, Likang Xiao, Yixing Liu, **Quan Chen**
+>
+> Tech report, 2025
+>
+> [Arxiv](https://arxiv.org/abs/2510.04089)
+
+> **ContextPRM: Leveraging Contextual Coherence for multi-domain Test-Time Scaling**
+>
+> Haotian Zhang, Liu Liu, Baosheng Yu, Jiayan Qiu, Likang Xiao, Yanwei Ren, **Quan Chen**, Xianglong Liu
+>
+> Tech report, 2025
+>
+> [Arxiv](https://arxiv.org/abs/2509.24460)
+
+
+> **Instruction Learning Paradigms: A Dual Perspective on White-box and Black-box LLMs**
+>
+> Yanwei Ren, Liu Liu, Baosheng Yu, Jiayan Qiu, **Quan Chen**
+>
+> Tech report, 2025
+>
+> [Arxiv](https://arxiv.org/abs/2506.21573)
+
+
+
+
 > **Improving Preference Alignment of LLM with Inference-Free Self-Refinement**
 >
 > Fukun Ma, Kaibin Tian, JietingXue, Xiaoyi Wang, Ye Ma, **Quan Chen**, Peng Jiang, Lijie Wen
