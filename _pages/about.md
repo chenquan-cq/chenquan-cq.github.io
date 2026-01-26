@@ -259,6 +259,9 @@ Selected Publibcations
 
 Review Service
 ======
+
+- European Conference on Computer Vision (ECCV), 2026, Reviewer.
+- Computer Vision and Pattern Recognition (CVPR), 2026, Reviewer.
 - International Conference on Learning Representations (ICLR), 2026, Reviewer.
 - Association for the Advancement of Artificial Intelligence (AAAI) 2026, PC Member.
 - Association for the Advancement of Artificial Intelligence (AAAI) 2025, Reviewer.
