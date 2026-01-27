@@ -100,7 +100,7 @@ Selected Publibcations
 >
 > Shengyuan Liu, Bo Wang, Ye Ma, Te Yang, **Quan Chen**, Di Dong
 >
-> Pattern Recognition (PR), Volume 170, February 2026, 112111
+> Pattern Recognition (PR), 2026
 >
 > [arXiv](https://arxiv.org/abs/2405.06948)
 
