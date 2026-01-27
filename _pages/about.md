@@ -13,18 +13,26 @@ I am hiring both full-time employees and interns. If interested, please feel fre
 
 
 
+[Google Scholar Profile](https://scholar.google.com/citations?user=jFQSmp8AAAAJ&hl=en)
 
 
-Selected Publibcations
+Preprints
 ======
 
-[Google Scholar Profile](https://scholar.google.com/citations?user=jFQSmp8AAAAJ&hl=en)
+> **From Principles to Applications: A Comprehensive Survey of Discrete Tokenizers in Generation, Comprehension, Recommendation, and Information Retrieval**
+>
+> Jian Jia, Jingtong Gao, Ben Xue, Junhao Wang, Qingpeng Cai, **Quan Chen**, Xiangyu Zhao, Peng Jiang, Kun Gai
+>
+> Tech report
+>
+> [Arxiv](https://arxiv.org/abs/2502.12448)
+
 
 > **IMAGINE: Integrating Multi-Agent System into One Model for Complex Reasoning and Planning**
 >
 > Xikai Zhang, Bo Wang, Likang Xiao, Yongzhi Li, **Quan Chen**, Wenju Wu, Liu Liu
 >
-> Tech report, 2025
+> Tech report
 >
 > [Arxiv](https://arxiv.org/abs/2510.14406)
 
@@ -33,37 +41,59 @@ Selected Publibcations
 >
 > Yitong Cui, Liu Liu, Baosheng Yu, Jiayan Qiu, Xikai Zhang, Likang Xiao, Yixing Liu, **Quan Chen**
 >
-> Tech report, 2025
+> Tech report
 >
 > [Arxiv](https://arxiv.org/abs/2510.04089)
-
-> **ContextPRM: Leveraging Contextual Coherence for multi-domain Test-Time Scaling**
->
-> Haotian Zhang, Liu Liu, Baosheng Yu, Jiayan Qiu, Likang Xiao, Yanwei Ren, **Quan Chen**, Xianglong Liu
->
-> Tech report, 2025
->
-> [Arxiv](https://arxiv.org/abs/2509.24460)
 
 
 > **Instruction Learning Paradigms: A Dual Perspective on White-box and Black-box LLMs**
 >
 > Yanwei Ren, Liu Liu, Baosheng Yu, Jiayan Qiu, **Quan Chen**
 >
-> Tech report, 2025
+> Tech report
 >
 > [Arxiv](https://arxiv.org/abs/2506.21573)
 
 
+> **Enhancing instruction-following capability of visual-language models by reducing image redundancy**
+>
+> Te Yang, Jian Jia, Xiangyu Zhu, Weisong Zhao, Bo Wang, Yanhua Cheng, Yan Li, Shengyuan Liu, **Quan Chen**, Peng Jiang, Kun Gai, Zhen Lei
+>
+> Tech report
+>
+> [arXiv](https://arxiv.org/abs/2411.15453)
 
 
-> **Improving Preference Alignment of LLM with Inference-Free Self-Refinement**
+> **Knowledge Condensation and Reasoning for Knowledge-based VQA**
 >
-> Fukun Ma, Kaibin Tian, JietingXue, Xiaoyi Wang, Ye Ma, **Quan Chen**, Peng Jiang, Lijie Wen
+> Dongze Hao, Jian Jia, Longteng Guo, Qunbo Wang, Te Yang, Yan Li, Yanhua Cheng, Bo Wang, **Quan Chen**, Han Li, Jing Liu
 >
-> Empirical Methods in Natural Language Processing (EMNLP Findings), 2025
+> Tech report
 >
-> [ACL Anthology](https://aclanthology.org/2025.findings-emnlp.1329/)
+> [arXiv](https://arxiv.org/abs/2403.10037)
+
+
+> **Text-Video Multi-Grained Integration for Video Moment Montage**
+>
+> Zhihui Yin, Ye Ma, Xipeng Cao, Bo Wang, Quan Chen, Peng Jiang
+>
+> Tech report
+> 
+> [arXiv](https://arxiv.org/abs/2412.09276)
+
+
+
+Selected Publibcations
+======
+
+> **ContextPRM: Leveraging Contextual Coherence for multi-domain Test-Time Scaling**
+>
+> Haotian Zhang, Liu Liu, Baosheng Yu, Jiayan Qiu, Likang Xiao, Yanwei Ren, **Quan Chen**, Xianglong Liu
+>
+> International Conference on Machine Learning (ICML), 2026
+>
+> [Arxiv](https://arxiv.org/abs/2509.24460)
+
 
 
 > **Training-free Subject-Enhanced Attention Guidance for Compositional Text-to-image Generation**
@@ -84,13 +114,15 @@ Selected Publibcations
 > [arXiv](https://arxiv.org/abs/2408.02978)
 
 
-> **From Principles to Applications: A Comprehensive Survey of Discrete Tokenizers in Generation, Comprehension, Recommendation, and Information Retrieval**
+
+> **Improving Preference Alignment of LLM with Inference-Free Self-Refinement**
 >
-> Jian Jia, Jingtong Gao, Ben Xue, Junhao Wang, Qingpeng Cai, **Quan Chen**, Xiangyu Zhao, Peng Jiang, Kun Gai
+> Fukun Ma, Kaibin Tian, JietingXue, Xiaoyi Wang, Ye Ma, **Quan Chen**, Peng Jiang, Lijie Wen
 >
-> Tech report, 2025
+> Empirical Methods in Natural Language Processing (EMNLP Findings), 2025
 >
-> [Arxiv](https://arxiv.org/abs/2502.12448)
+> [ACL Anthology](https://aclanthology.org/2025.findings-emnlp.1329/)
+
 
 > **SweetTok: Semantic-Aware Spatial-Temporal Tokenizer for Compact Video Discretization**
 > 
@@ -99,7 +131,6 @@ Selected Publibcations
 > International Conference on Computer Vision (ICCV), 2025
 > 
 > [arXiv](https://arxiv.org/abs/2412.10443)
-
 
 
 
@@ -139,14 +170,6 @@ Selected Publibcations
 > [arXiv](https://arxiv.org/abs/2408.13226)
 
 
-> **Enhancing instruction-following capability of visual-language models by reducing image redundancy**
->
-> Te Yang, Jian Jia, Xiangyu Zhu, Weisong Zhao, Bo Wang, Yanhua Cheng, Yan Li, Shengyuan Liu, **Quan Chen**, Peng Jiang, Kun Gai, Zhen Lei
->
-> Tech report
->
-> [arXiv](https://arxiv.org/abs/2411.15453)
-
 
 > **Towards Efficient and Effective Text-to-Video Retrieval with Coarse-to-Fine Visual Representation Learning**
 >
@@ -170,24 +193,6 @@ Selected Publibcations
 > Xiaowan Hu, Yiyi Chen, Yan Li, Minquan Wang, Haoqian Wang, **Quan Chen**, Han Li, Peng Jiang
 >
 > ACM International Conference on Multimedia (ACM MM), 2024
-
-
-> **Knowledge Condensation and Reasoning for Knowledge-based VQA**
->
-> Dongze Hao, Jian Jia, Longteng Guo, Qunbo Wang, Te Yang, Yan Li, Yanhua Cheng, Bo Wang, **Quan Chen**, Han Li, Jing Liu
->
-> Tech report, 2024
->
-> [arXiv](https://arxiv.org/abs/2403.10037)
-
-
-> **Text-Video Multi-Grained Integration for Video Moment Montage**
->
-> Zhihui Yin, Ye Ma, Xipeng Cao, Bo Wang, Quan Chen, Peng Jiang
->
-> Tech report
-> 
-> [arXiv](https://arxiv.org/abs/2412.09276)
 
 
 > **Cross-view Semantic Alignment for Livestreaming Product Recognition**
