@@ -90,7 +90,7 @@ Selected Publibcations
 >
 > Haotian Zhang, Liu Liu, Baosheng Yu, Jiayan Qiu, Likang Xiao, Yanwei Ren, **Quan Chen**, Xianglong Liu
 >
-> International Conference on Machine Learning (ICML), 2026
+> International Conference on Learning Representations (ICLR), 2026
 >
 > [Arxiv](https://arxiv.org/abs/2509.24460)
 
