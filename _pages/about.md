@@ -6,81 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am the director of Commercial Intelligence Generation Center at Kuaishou Technology, before that, I am a senior staff algorithm engineer at Alibaba Group. 
-I currently focus on the research and development of AI technologies and their applications in internet advertising, including Ads Agent, AIGC and Large Recomendation Models.
+Quan Chen is the director of Business Intelligence Generation (BIG) Center at Kuaishou Technology, before that, he is a senior staff algorithm engineer at Alibaba Group. 
+He currently focus on the research and development of AI technologies and their applications in internet advertising, including Ads Agent, AIGC and Large Recomendation Models.
+He have published dozens of top-tier international conference papers and journal articles in his research area, such as ICCV/ECCV/ICML/ICLR/AAAI/ACM MM/EMNLP.
 
-I am hiring both full-time employees and interns. If interested, please feel free to contact me: chenquan06@kuaishou.com.
-
-
+He is hiring both full-time employees and interns. If interested, please feel free to contact him: chenquan06@kuaishou.com.
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=jFQSmp8AAAAJ&hl=en)
-
-
-Preprints
-======
-
-> **From Principles to Applications: A Comprehensive Survey of Discrete Tokenizers in Generation, Comprehension, Recommendation, and Information Retrieval**
->
-> Jian Jia, Jingtong Gao, Ben Xue, Junhao Wang, Qingpeng Cai, **Quan Chen**, Xiangyu Zhao, Peng Jiang, Kun Gai
->
-> Tech report
->
-> [Arxiv](https://arxiv.org/abs/2502.12448)
-
-
-> **IMAGINE: Integrating Multi-Agent System into One Model for Complex Reasoning and Planning**
->
-> Xikai Zhang, Bo Wang, Likang Xiao, Yongzhi Li, **Quan Chen**, Wenju Wu, Liu Liu
->
-> Tech report
->
-> [Arxiv](https://arxiv.org/abs/2510.14406)
-
-
-> **SPOGW: a Score-based Preference Optimization method via Group-Wise comparison for workflows**
->
-> Yitong Cui, Liu Liu, Baosheng Yu, Jiayan Qiu, Xikai Zhang, Likang Xiao, Yixing Liu, **Quan Chen**
->
-> Tech report
->
-> [Arxiv](https://arxiv.org/abs/2510.04089)
-
-
-> **Instruction Learning Paradigms: A Dual Perspective on White-box and Black-box LLMs**
->
-> Yanwei Ren, Liu Liu, Baosheng Yu, Jiayan Qiu, **Quan Chen**
->
-> Tech report
->
-> [Arxiv](https://arxiv.org/abs/2506.21573)
-
-
-> **Enhancing instruction-following capability of visual-language models by reducing image redundancy**
->
-> Te Yang, Jian Jia, Xiangyu Zhu, Weisong Zhao, Bo Wang, Yanhua Cheng, Yan Li, Shengyuan Liu, **Quan Chen**, Peng Jiang, Kun Gai, Zhen Lei
->
-> Tech report
->
-> [arXiv](https://arxiv.org/abs/2411.15453)
-
-
-> **Knowledge Condensation and Reasoning for Knowledge-based VQA**
->
-> Dongze Hao, Jian Jia, Longteng Guo, Qunbo Wang, Te Yang, Yan Li, Yanhua Cheng, Bo Wang, **Quan Chen**, Han Li, Jing Liu
->
-> Tech report
->
-> [arXiv](https://arxiv.org/abs/2403.10037)
-
-
-> **Text-Video Multi-Grained Integration for Video Moment Montage**
->
-> Zhihui Yin, Ye Ma, Xipeng Cao, Bo Wang, Quan Chen, Peng Jiang
->
-> Tech report
-> 
-> [arXiv](https://arxiv.org/abs/2412.09276)
-
 
 
 Selected Publibcations
@@ -188,6 +120,7 @@ Selected Publibcations
 >
 > [OpenReview](https://openreview.net/pdf/fdfb800d821320702c049d0c61c1c6c498ff4445.pdf)
 
+
 > **Spatiotemporal Graph Guided Multi-modal Network for Livestreaming Product Retrieval**
 >
 > Xiaowan Hu, Yiyi Chen, Yan Li, Minquan Wang, Haoqian Wang, **Quan Chen**, Han Li, Peng Jiang
@@ -202,6 +135,7 @@ Selected Publibcations
 >  International Conference on Computer Vision (ICCV), 2023
 >
 > [arXiv](https://arxiv.org/abs/2308.04912)
+
 
 > **Cross-Domain Product Representation Learning for Rich-Content E-Commerce**
 >
@@ -219,15 +153,6 @@ Selected Publibcations
 > European Conference on Computer Vision (ECCV), 2022 (**Oral**)
 >
 > [arXiv](https://arxiv.org/abs/2207.04788)
-
-
-> **Boosting Image Outpainting with Semantic Layout Prediction**
->
-> Ye Ma, Jin Ma, Min Zhou, **Quan Chen**, Tiezheng Ge, Yuning Jiang, Tong Lin
->
-> Tech report, 2021
->
-> [arXiv](https://arxiv.org/pdf/2110.09267)
 
 
 > **Progressive Feature Polishing Network for Salient Object Detection**
@@ -253,6 +178,7 @@ Selected Publibcations
 > **Quan Chen**, Zhenwei Shi, Zhengxia Zou
 >
 > International Congress on Image and Signal Processing (ICISP), 2014
+
 
 > **Hyperspectral Image Fusion based on Sparse Constraint NMF**
 >
