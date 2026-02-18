@@ -18,6 +18,9 @@ He is hiring both full-time employees and interns. If interested, please feel fr
 Selected Publibcations
 ======
 
+2026
+==
+
 > **ContextPRM: Leveraging Contextual Coherence for multi-domain Test-Time Scaling**
 >
 > Haotian Zhang, Liu Liu, Baosheng Yu, Jiayan Qiu, Likang Xiao, Yanwei Ren, **Quan Chen**, Xianglong Liu
@@ -46,6 +49,8 @@ Selected Publibcations
 > [arXiv](https://arxiv.org/abs/2408.02978)
 
 
+2025
+==
 
 > **Improving Preference Alignment of LLM with Inference-Free Self-Refinement**
 >
@@ -102,6 +107,8 @@ Selected Publibcations
 > [arXiv](https://arxiv.org/abs/2408.13226)
 
 
+2024
+==
 
 > **Towards Efficient and Effective Text-to-Video Retrieval with Coarse-to-Fine Visual Representation Learning**
 >
@@ -128,6 +135,9 @@ Selected Publibcations
 > ACM International Conference on Multimedia (ACM MM), 2024
 
 
+2023
+==
+
 > **Cross-view Semantic Alignment for Livestreaming Product Recognition**
 >
 > Wenjie Yang, Yiyi Chen, Yan Li, Yanhua Cheng, Xudong Liu, **Quan Chen**, Han Li
@@ -146,6 +156,8 @@ Selected Publibcations
 > [arXiv](https://arxiv.org/abs/2308.05550)
 
 
+2022
+==
 > **DCCF: Deep Comprehensible Color Filter Learning Framework for High-Resolution Image Harmonization**
 >
 > Ben Xue, Shenghui Ran, **Quan Chen**, Rongfei Jia, Binqiang Zhao, Xing Tang
@@ -155,6 +167,8 @@ Selected Publibcations
 > [arXiv](https://arxiv.org/abs/2207.04788)
 
 
+2020
+==
 > **Progressive Feature Polishing Network for Salient Object Detection**
 >
 > Bo Wang, **Quan Chen**, Min Zhou, Zhiqiang Zhang, Xiaogang Jin, Kun Gai
@@ -164,6 +178,9 @@ Selected Publibcations
 > [arXiv](https://arxiv.org/abs/1911.05942)
 
 
+2018
+==
+
 > **Semantic Human Matting**
 >
 > **Quan Chen**, Tiezheng Ge, Yanyu Xu, Zhiqiang Zhang, Xinxin Yang, Kun Gai
@@ -171,21 +188,6 @@ Selected Publibcations
 > ACM international conference on Multimedia (ACM MM), 2018
 >
 > [arXiv](https://arxiv.org/pdf/1809.01354)
-
-
-> **Robust and Real-time Traffic Light Recognition based on Hierarchical Vision Architecture**
->
-> **Quan Chen**, Zhenwei Shi, Zhengxia Zou
->
-> International Congress on Image and Signal Processing (ICISP), 2014
-
-
-> **Hyperspectral Image Fusion based on Sparse Constraint NMF**
->
-> **Quan Chen**, Zhenwei Shi, Zhenyu An
->
-> Optik, Volume 125, Issue 2, January 2014, Pages 832-838
-
 
 
 Review Service
