@@ -9,7 +9,7 @@ redirect_from:
 Quan Chen is the Director of the Business Intelligence Generation (BIG) center at Kuaishou Technology.
 Before that, he was a Senior Staff Algorithm Engineer at Alibaba Group.
 He currently focuses on the research and development of AI technologies and their applications in internet advertising, including AIGC, Ads Agent, and Large Recommendation Models.
-He has published dozens of top-tier international conference papers and journal articles in his research area, such as ICCV, ECCV, ICML, ICLR, AAAI, ACM MM, and EMNLP.
+He has published dozens of top-tier international conference papers in his research area, such as CVPR, ICCV, ECCV, ICML, ICLR, AAAI, ACM MM, and EMNLP.
 
 He is hiring both full-time employees and interns.
 If interested, please feel free to contact him: chenquan06@kuaishou.com.
