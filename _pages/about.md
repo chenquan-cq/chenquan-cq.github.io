@@ -23,6 +23,25 @@ Selected Publibcations
 2026
 ==
 
+> **Narrative Weaver: Towards Controllable Long-Range Visual Consistency with Multi-Modal Conditioning**
+>
+> Zhengjian Yao, Yongzhi Li, Xinyuan Gao, Quan Chen, Peng Jiang, Yanye Lu
+>
+> Computer Vision and Pattern Recognition (CVPR), 2026
+
+
+> **Adaptive Video Distillation: Mitigating Oversaturation and Temporal Collapse in Few-Step Generation**
+>
+> Yuyang You, Yongzhi Li, Jiahui Li, Yadong MU, **Quan Chen**, Peng Jiang
+>
+> Computer Vision and Pattern Recognition (CVPR), 2026
+
+> **AutoCut: End-to-end advertisement video editing based on multimodal discretization and controllable generation Download PDF**
+>
+> Milton Zhou, Sizhong Qin, Yongzhi Li, **Quan Chen**, Peng Jiang
+>
+> Computer Vision and Pattern Recognition (CVPR), 2026
+
 > **ContextPRM: Leveraging Contextual Coherence for multi-domain Test-Time Scaling**
 >
 > Haotian Zhang, Liu Liu, Baosheng Yu, Jiayan Qiu, Likang Xiao, Yanwei Ren, **Quan Chen**, Xianglong Liu
