@@ -36,7 +36,7 @@ Selected Publibcations
 >
 > Computer Vision and Pattern Recognition (CVPR), 2026
 
-> **AutoCut: End-to-end advertisement video editing based on multimodal discretization and controllable generation Download PDF**
+> **AutoCut: End-to-end advertisement video editing based on multimodal discretization and controllable generation**
 >
 > Milton Zhou, Sizhong Qin, Yongzhi Li, **Quan Chen**, Peng Jiang
 >
