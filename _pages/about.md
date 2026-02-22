@@ -25,7 +25,7 @@ Selected Publibcations
 
 > **Narrative Weaver: Towards Controllable Long-Range Visual Consistency with Multi-Modal Conditioning**
 >
-> Zhengjian Yao, Yongzhi Li, Xinyuan Gao, Quan Chen, Peng Jiang, Yanye Lu
+> Zhengjian Yao, Yongzhi Li, Xinyuan Gao, **Quan Chen**, Peng Jiang, Yanye Lu
 >
 > Computer Vision and Pattern Recognition (CVPR), 2026
 
