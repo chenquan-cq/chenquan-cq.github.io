@@ -23,6 +23,12 @@ Selected Publibcations
 2026
 ==
 
+> **Enhancing the Instruction-Following Ability of Vision-Language Models via Image Redundancy Reduction**
+>
+> Te Yang, Jian Jia, Xiangyu Zhu, Weisong Zhao, Bo Wang, Yanhua Cheng, Yan Li, Shengyuan Liu, **Quan Chen**, Zhen Lei
+>
+> Machine Intelligence Research, 2026
+
 > **Narrative Weaver: Towards Controllable Long-Range Visual Consistency with Multi-Modal Conditioning**
 >
 > Zhengjian Yao, Yongzhi Li, Xinyuan Gao, **Quan Chen**, Peng Jiang, Yanye Lu
