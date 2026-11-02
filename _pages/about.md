@@ -23,6 +23,26 @@ Selected Publibcations
 2026
 ==
 
+
+
+> **Generative recommendation for large-scale advertising**
+>
+> Ben Xue, Dan Liu, Lixiang Wang, Mingjie Sun, Peng Wang, Pengfei Zhang, Shaoyun Shi, Tianyu Xu, Yunhao Sha, Zhiqiang Liu, Bo Kong, Bo Wang, Hang Yang, Jieting Xue, Junhao Wang, Shengyu Wang, Shuping Hui, Wencai Ye, Xiao Lin, Yongzhi Li, Yuhang Chen, Zhihui Yin, **Quan Chen**, Shiyang Wen, Wenjin Wu, Guorui Zhou, Changcheng Li, Peng Jiang
+>
+> ACM SIGKDD, 2026
+
+> **ProductWebGen: Benchmarking Multimodal Product Webpage Generation**
+>
+> Zhihong Liu, Siqi Kou, Zheng Li, Ye Ma, **Quan Chen**, Peng Jiang, Kai Yu, Zhijie Deng
+>
+> ACM SIGKDD, 2026
+
+> **Instruction learning paradigms: a dual perspective on white-box and black-box LLMs**
+>
+> Yanwei Ren, Liu Liu, Baosheng Yu, Jiayan Qiu, **Quan Chen**
+>
+> Machine Learning, 2026
+
 > **Enhancing the Instruction-Following Ability of Vision-Language Models via Image Redundancy Reduction**
 >
 > Te Yang, Jian Jia, Xiangyu Zhu, Weisong Zhao, Bo Wang, Yanhua Cheng, Yan Li, Shengyuan Liu, **Quan Chen**, Zhen Lei
