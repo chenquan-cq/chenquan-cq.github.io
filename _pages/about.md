@@ -29,13 +29,19 @@ Selected Publibcations
 >
 > Ben Xue, Dan Liu, Lixiang Wang, Mingjie Sun, Peng Wang, Pengfei Zhang, Shaoyun Shi, Tianyu Xu, Yunhao Sha, Zhiqiang Liu, Bo Kong, Bo Wang, Hang Yang, Jieting Xue, Junhao Wang, Shengyu Wang, Shuping Hui, Wencai Ye, Xiao Lin, Yongzhi Li, Yuhang Chen, Zhihui Yin, **Quan Chen**, Shiyang Wen, Wenjin Wu, Guorui Zhou, Changcheng Li, Peng Jiang
 >
-> ACM SIGKDD, 2026
+> ACM SIGKDD, 2026 (**Oral**)
 
 > **ProductWebGen: Benchmarking Multimodal Product Webpage Generation**
 >
 > Zhihong Liu, Siqi Kou, Zheng Li, Ye Ma, **Quan Chen**, Peng Jiang, Kai Yu, Zhijie Deng
 >
 > ACM SIGKDD, 2026
+
+> **Think-then-generate: Reasoning-aware text-to-image diffusion with llm encoders**
+>
+> Siqi Kou, Jiachun Jin, Zetong Zhou, Ye Ma, Yugang Wang, **Quan Chen**, Peng Jiang, Xiao Yang, Jun Zhu, Kai Yu, Zhijie Deng
+>
+> International Conference on Machine Learning (ICML), 2026
 
 > **Instruction learning paradigms: a dual perspective on white-box and black-box LLMs**
 >
