@@ -30,36 +30,48 @@ Selected Publibcations
 > Ben Xue, Dan Liu, Lixiang Wang, Mingjie Sun, Peng Wang, Pengfei Zhang, Shaoyun Shi, Tianyu Xu, Yunhao Sha, Zhiqiang Liu, Bo Kong, Bo Wang, Hang Yang, Jieting Xue, Junhao Wang, Shengyu Wang, Shuping Hui, Wencai Ye, Xiao Lin, Yongzhi Li, Yuhang Chen, Zhihui Yin, **Quan Chen**, Shiyang Wen, Wenjin Wu, Guorui Zhou, Changcheng Li, Peng Jiang
 >
 > ACM SIGKDD, 2026 (**Oral**)
+>
+> [arXiv](https://arxiv.org/abs/2602.22732)
 
 > **ProductWebGen: Benchmarking Multimodal Product Webpage Generation**
 >
 > Zhihong Liu, Siqi Kou, Zheng Li, Ye Ma, **Quan Chen**, Peng Jiang, Kai Yu, Zhijie Deng
 >
 > ACM SIGKDD, 2026
+>
+> [arXiv](https://arxiv.org/abs/2606.01022)
 
 > **Think-then-generate: Reasoning-aware text-to-image diffusion with llm encoders**
 >
 > Siqi Kou, Jiachun Jin, Zetong Zhou, Ye Ma, Yugang Wang, **Quan Chen**, Peng Jiang, Xiao Yang, Jun Zhu, Kai Yu, Zhijie Deng
 >
 > International Conference on Machine Learning (ICML), 2026
+>
+> [arXiv](https://arxiv.org/abs/2601.10332)
 
 > **Instruction learning paradigms: a dual perspective on white-box and black-box LLMs**
 >
 > Yanwei Ren, Liu Liu, Baosheng Yu, Jiayan Qiu, **Quan Chen**
 >
 > Machine Learning, 2026
+>
+> [arXiv](https://arxiv.org/abs/2506.21573)
 
 > **Enhancing the Instruction-Following Ability of Vision-Language Models via Image Redundancy Reduction**
 >
 > Te Yang, Jian Jia, Xiangyu Zhu, Weisong Zhao, Bo Wang, Yanhua Cheng, Yan Li, Shengyuan Liu, **Quan Chen**, Zhen Lei
 >
 > Machine Intelligence Research, 2026
+>
+> [arXiv](https://arxiv.org/abs/2411.15453)
 
 > **Narrative Weaver: Towards Controllable Long-Range Visual Consistency with Multi-Modal Conditioning**
 >
 > Zhengjian Yao, Yongzhi Li, Xinyuan Gao, **Quan Chen**, Peng Jiang, Yanye Lu
 >
 > Computer Vision and Pattern Recognition (CVPR), 2026
+>
+> [arXiv](https://arxiv.org/abs/2603.06688)
 
 
 > **Adaptive Video Distillation: Mitigating Oversaturation and Temporal Collapse in Few-Step Generation**
@@ -67,12 +79,16 @@ Selected Publibcations
 > Yuyang You, Yongzhi Li, Jiahui Li, Yadong MU, **Quan Chen**, Peng Jiang
 >
 > Computer Vision and Pattern Recognition (CVPR), 2026
+>
+> [arXiv](https://arxiv.org/abs/2603.21864)
 
 > **AutoCut: End-to-end advertisement video editing based on multimodal discretization and controllable generation**
 >
 > Milton Zhou, Sizhong Qin, Yongzhi Li, **Quan Chen**, Peng Jiang
 >
 > Computer Vision and Pattern Recognition (CVPR), 2026
+>
+> [arXiv](https://arxiv.org/abs/2603.28366)
 
 > **ContextPRM: Leveraging Contextual Coherence for multi-domain Test-Time Scaling**
 >
@@ -80,7 +96,7 @@ Selected Publibcations
 >
 > International Conference on Learning Representations (ICLR), 2026
 >
-> [Arxiv](https://arxiv.org/abs/2509.24460)
+> [arXiv](https://arxiv.org/abs/2509.24460)
 
 
 
@@ -178,7 +194,7 @@ Selected Publibcations
 >
 > ACM International Conference on Multimedia (ACM MM), 2024 (**Oral**)
 >
-> [OpenReview](https://openreview.net/pdf/fdfb800d821320702c049d0c61c1c6c498ff4445.pdf)
+> [ACM DL](https://dl.acm.org/doi/10.1145/3664647.3681333)
 
 
 > **Spatiotemporal Graph Guided Multi-modal Network for Livestreaming Product Retrieval**
@@ -186,6 +202,8 @@ Selected Publibcations
 > Xiaowan Hu, Yiyi Chen, Yan Li, Minquan Wang, Haoqian Wang, **Quan Chen**, Han Li, Peng Jiang
 >
 > ACM International Conference on Multimedia (ACM MM), 2024
+>
+> [arXiv](https://arxiv.org/abs/2407.16248)
 
 
 2023
