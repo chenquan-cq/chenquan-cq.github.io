@@ -20,6 +20,18 @@ If interested, please feel free to contact him: chenquan06@kuaishou.com.
 Selected Publibcations
 ======
 
+2027
+==
+
+> **Recommendation as Generation: Unifying Personalized Video Generation and Recommendation at Industrial Scale**
+>
+> Yanhua Cheng, Bo Wang, Haotian Zhang, Xinyuan Gao, Zhihui Yin, Ben Xue, Yongzhi Li, Jieting Xue, Ye Ma, Minquan Wang, Jiahui Li, Tianyu Xu, Zhiqiang Liu, Xiao Lin, Shiyang Wen, Changcheng Li, Liu Liu, **Quan Chen**, Peng Jiang, Kun Gai
+>
+> ACM SIGKDD, 2027
+>
+> [arXiv](https://arxiv.org/abs/2606.25496)
+
+
 2026
 ==
 
